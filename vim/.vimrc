@@ -7,5 +7,5 @@ no gj gk
 " +window navigation
 nn <C-w>j <C-w>k
 nn <C-w>k <C-w>j
-nn <C-W>j <C-W>k
-nn <C-W>k <C-W>j
+nn <C-W>J <C-W>K
+nn <C-W>K <C-W>J
