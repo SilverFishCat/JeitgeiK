@@ -1,0 +1,9 @@
+#command
+j	back-line
+k	forw-line
+J	back-line-force
+K	forw-line-force
+
+#line-edit
+\ek	down
+\ej	up
